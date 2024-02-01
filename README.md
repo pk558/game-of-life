@@ -1,15 +1,9 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Game of Life
 
-This project has been created using **webpack-cli**, you can now run
+To run this project build it with webpack with:
 
-```
-npm run build
-```
+# webpack build
 
-or
+Or checkout here:
 
-```
-yarn build
-```
-
-to bundle your application
+# soon

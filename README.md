@@ -1,6 +1,6 @@
 # 🚀 Game of Life
 
-To run this project build it with webpack with:
+To run this project build it with webpack:
 
 # webpack build
 
